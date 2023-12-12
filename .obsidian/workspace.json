@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/사용법/옵시디언 사용법.md",
+                "file": "Diary/2023.12.13.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/사용법/옵시디언 사용법.md",
+                "file": "Diary/2023.12.13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/사용법/옵시디언 사용법.md",
+                "file": "Diary/2023.12.13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/사용법/옵시디언 사용법.md"
+                "file": "Diary/2023.12.13.md"
               }
             }
           },
@@ -174,10 +174,10 @@
   },
   "active": "300f78a334ddfcd0",
   "lastOpenFiles": [
-    "Obsidian/사용법/마크다운 사용법.md",
-    "Diary/2023.12.13.md",
     "Diary/2023.12.12.md",
     "Obsidian/사용법/옵시디언 사용법.md",
+    "Obsidian/사용법/마크다운 사용법.md",
+    "Diary/2023.12.13.md",
     "README.md",
     "무제 파일.md",
     "Template",
