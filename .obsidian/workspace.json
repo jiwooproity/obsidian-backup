@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9adfa66ca68c4ea3",
+        "id": "bc8f2e2c37995f13",
         "type": "tabs",
         "children": [
           {
-            "id": "5ef57f05bcd8025f",
+            "id": "7331ceb205ac3615",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,7 @@
       {
         "id": "7ad2112acbb10128",
         "type": "tabs",
-        "dimension": 59.293044469783354,
+        "dimension": 64.71734892787524,
         "children": [
           {
             "id": "77f10949187b6564",
@@ -142,9 +142,9 @@
         "currentTab": 4
       },
       {
-        "id": "fde3d7b6655ccff9",
+        "id": "fdae44a81179b5ea",
         "type": "tabs",
-        "dimension": 40.706955530216646,
+        "dimension": 35.28265107212476,
         "children": [
           {
             "id": "761c85d8a76f1423",
@@ -158,7 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5
+    "width": 358.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,13 +172,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5ef57f05bcd8025f",
+  "active": "50e6c3e84803703a",
   "lastOpenFiles": [
-    "Diary/2023.12.12.md",
+    "README.md",
+    "Develop",
     "Obsidian/사용법/옵시디언 사용법.md",
     "Obsidian/사용법/마크다운 사용법.md",
     "Diary/2023.12.13.md",
-    "README.md",
+    "Diary/2023.12.14.md",
+    "Diary/2023.12.12.md",
     "무제 파일.md",
     "Template",
     "Diary/Template.md",
