@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2023.12.15.md",
+                "file": "Diary/2023.12.18.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2023.12.15.md",
+                "file": "Diary/2023.12.18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2023.12.15.md",
+                "file": "Diary/2023.12.18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2023.12.15.md"
+                "file": "Diary/2023.12.18.md"
               }
             }
           },
@@ -175,10 +175,11 @@
   },
   "active": "29f833ca83694738",
   "lastOpenFiles": [
+    "Diary/2023.12.15.md",
     "Diary/2023.12.14.md",
     "Diary/2023.12.13.md",
+    "Diary/2023.12.18.md",
     "Diary/2023.12.12.md",
-    "Diary/2023.12.15.md",
     "Develop/Litmus/Layers/GeoJsonLayer.md",
     "Develop/Litmus/Layers",
     "Obsidian/사용법/마크다운 사용법.md",
