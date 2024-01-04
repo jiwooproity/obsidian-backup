@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ae8e040dd7b637b9",
+        "id": "56852131ca850efc",
         "type": "tabs",
         "children": [
           {
-            "id": "f306f027f019ba8c",
+            "id": "16b568ce247b285d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2023.12.20.md",
+                "file": "Diary/2023.12.27.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2023.12.20.md",
+                "file": "Diary/2023.12.27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2023.12.20.md",
+                "file": "Diary/2023.12.27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2023.12.20.md"
+                "file": "Diary/2023.12.27.md"
               }
             }
           },
@@ -172,10 +172,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f306f027f019ba8c",
+  "active": "16b568ce247b285d",
   "lastOpenFiles": [
-    "Develop/Litmus/Layers/GeoJsonLayer.md",
+    "Diary/2023.12.26.md",
+    "Diary/2023.12.27.md",
     "Diary/2023.12.20.md",
+    "Develop/Litmus/Layers/GeoJsonLayer.md",
     "Diary/2023.12.18.md",
     "Diary/2023.12.15.md",
     "Diary/2023.12.14.md",
